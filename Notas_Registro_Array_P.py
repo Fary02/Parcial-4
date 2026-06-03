@@ -28,7 +28,7 @@ for nota in notas:
   
   # Se redefine la variable suma;
   
-  suma = suma+ nota; 
+  suma = suma + nota; 
   
 # Se calcula el promedio;
   

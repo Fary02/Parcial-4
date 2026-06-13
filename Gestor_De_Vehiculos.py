@@ -16,7 +16,6 @@ disponible = True;
 
 no_Disponble = False; 
 
-
 # Inicio de menu;
 
 while True:
@@ -28,8 +27,7 @@ while True:
   print("4. Actualizar disponibilidad"); 
   print("5. Mostrar vehiculos"); 
   print("6. Salir"); 
-  
-  
+
   # Intenta;
   
   try:
